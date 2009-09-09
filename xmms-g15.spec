@@ -1,6 +1,6 @@
 Name:                   xmms-g15
 Version:                2.5.4
-Release:                %mkrel 4
+Release:                %mkrel 5
 Summary:                Very simple spectrum analyzer for XMMS
 License:                GPL
 Group:                  System/Configuration/Hardware
