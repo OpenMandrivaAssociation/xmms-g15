@@ -4,7 +4,7 @@ Release:                %mkrel 5
 Summary:                Very simple spectrum analyzer for XMMS
 License:                GPL
 Group:                  System/Configuration/Hardware
-URL:                    http://g15daemon.sourceforge.net/
+URL:                    https://g15daemon.sourceforge.net/
 Source0:                http://downloads.sourceforge.net/g15daemon/g15daemon-xmms-%{version}.tar.bz2
 Provides:               g15daemon-xmms = %{version}-%{release}
 Requires:               xmms
